@@ -4,7 +4,7 @@
 
 ## 🚀 Live Demo
 
-[ecosense-demo.netlify.app](https://ecosense-demo.netlify.app/)
+![EcoSense demo](https://ecosense-demo.netlify.app/)
 
 ## 📋 Project Description
 
